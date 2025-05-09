@@ -1,0 +1,6 @@
+streamlit
+requests
+faiss-cpu
+openai>=1.0.0
+numpy
+python-dotenv
