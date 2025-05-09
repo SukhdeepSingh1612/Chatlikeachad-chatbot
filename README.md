@@ -17,12 +17,6 @@ Welcome to **ChadBot** — your smooth-talking, alpha-minded, confidence-oozing 
 
 ---
 
-## 🖼️ Preview
-
-
-
----
-
 ## 🛠️ Setup & Installation
 
 1. **Clone this repo:**
