@@ -7,6 +7,10 @@ Welcome to **ChadBot** — your smooth-talking, alpha-minded, confidence-oozing 
 
 ---
 
+### Deployed on Streamlit : https://chatlikeachad-chatbot-r4aucs3j2dftyghhgifzyh.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - 🤖 **LLAMA 3 (70B)** via [Groq API] – for lightning-fast inference.
